@@ -10,7 +10,7 @@ There are 7 pages on web page, which describes an analysis of weather as it rela
 2. Latitude vs Max Temperature
     - Shows the chart of Max Temperature versus Latitude
     - Details observation from previous analysis
-![Latitude vs Max Temperature](/Resources/temperature.png "Temperature")
+![Latitude vs Max Temperature](/Resources/ReadmeImages/temperature.PNG "Temperature")
 3. Latitude vs Humidity
     - Shows the chart of Humidity versus Latitude
     - Details observations from previous analysis
