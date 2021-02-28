@@ -83,6 +83,13 @@ img {
     background-color: white;
     z-index:1;
   }
+
+  .table-responsive{
+    background-color: white;
+    z-index:1;
+    padding: 30px;
+    text-align: center;
+  }
   
   .divtable{
     text-align:center;
