@@ -49,13 +49,6 @@ img {
     background-color: lightgray;
   }
   
-  .col {
-    width: 100%;
-    /* border: black 1px solid; */
-    /* Font color */
-    /* color:blue;  */
-  } 
-  
   .homebtn{
     background-color: white;
     z-index:2;
@@ -90,9 +83,4 @@ img {
     padding: 30px;
     text-align: center;
   }
-  
-  .divtable{
-    text-align:center;
-    background-color: white;
-    z-index:1;
-  }
+
